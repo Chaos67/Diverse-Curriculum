@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 📚 程式課程學習中心
+title: 📚 自主學習成果報告
 ---
 
-# 歡迎來到我的線上講義
 
-這是一個專為 **MATLAB** 與 **AI** 學習者設計的免費資源平台。請點選下方區塊開始學習。
 
 <style>
     .card-container {
@@ -48,22 +46,4 @@ title: 📚 程式課程學習中心
     }
 </style>
 
-<div class="card-container">
-    <a href="./matlab/ch01" class="card">
-        <h2>📊 MATLAB</h2>
-        <p>矩陣運算、數據繪圖與科學計算基礎。</p>
-        <span class="btn-start">開始學習</span>
-    </a>
 
-    <a href="./ai/ch01" class="card">
-        <h2>🤖 AI 課程</h2>
-        <p>機器學習導論與神經網路實作教學。</p>
-        <span class="btn-start">開始學習</span>
-    </a>
-</div>
-
----
-
-### 📢 最新更新
-- **2025-12-28**: 新增 AI 課程第二章「神經網路」。
-- **2025-12-28**: 修正 MATLAB 側邊欄導覽連結。
